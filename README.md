@@ -1,2 +1,2 @@
-# cedric
-A simple virtual assistant made in Python. 
+## Cedric
+Cedric is a repository where I experiment (and learn) with various AI techniques and algorithms to create a virtual assistant. The goal of this project is to learn and apply the latest advances in natural language processing, computer vision, speech recognition and generation, and conversational AI. Cedric is not just a collection of code snippets, but a coherent and modular system that can interact with users through multiple channels and perform various tasks. Some of the features that Cedric can do are: answer questions, generate summaries, write poems, recognize faces, synthesize voices, and more. Cedric is an ongoing project that welcomes contributions from anyone who is interested in AI and virtual assistants.
